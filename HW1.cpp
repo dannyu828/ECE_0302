@@ -31,7 +31,7 @@ Date Date::advance_Date(Date current)
 //Exercise 9 ****************************************************************
 
 //a
-p.coefficient(p.degree());
+cout << p.coefficient(p.degree());
 
 //b
 p.changeCoefficient(p.coefficient(3) + 8, 3);
